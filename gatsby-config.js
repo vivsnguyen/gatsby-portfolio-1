@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Connor Callahan`,
+    title: `Vivi Nguyen`,
     description: ``,
-    author: `Connor Callahan`,
+    author: `Vivi Nguyen`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
