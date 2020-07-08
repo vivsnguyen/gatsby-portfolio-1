@@ -22,12 +22,12 @@ class Navigation extends Component {
           <div className="nav-links">
               {navLinks.map(link => (
                 <React.Fragment>
-                <TransitionLink key={link.contactTitle} to={link.contactLink} className="link" activeClassName="active">
-                  {link.contactTitle}
-                </TransitionLink>
-                <TransitionLink key={link.aboutTitle} to={link.aboutLink} className="link" activeClassName="active">
-                  {link.aboutTitle}
-                </TransitionLink>
+                  <TransitionLink key={link.contactTitle} to={link.contactLink} className="link" activeClassName="active">
+                    {link.contactTitle}
+                  </TransitionLink>
+                  <TransitionLink key={link.aboutTitle} to={link.aboutLink} className="link" activeClassName="active">
+                    {link.aboutTitle}
+                  </TransitionLink>
                 </React.Fragment>
               ))}
               <a target="_blank"

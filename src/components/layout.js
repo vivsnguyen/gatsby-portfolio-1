@@ -7,7 +7,7 @@ import "../style/navigation.scss"
 import "../style/index.scss"
 import "../style/projects.scss"
 import "../style/contact.scss"
-import "../style/blog.scss"
+import "../style/about.scss"
 
 
 const Layout = ({ children }) => (
