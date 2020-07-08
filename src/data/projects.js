@@ -1,20 +1,20 @@
-import aircolor from '../images/air-color-icon.png'
-import speculate from '../images/speculate-icon.png'
-import museume from '../images/museume-icon.png'
-import outfitlab from '../images/outfit-lab-icon.png'
+// import aircolor from '../images/air-color-icon.png'
+// import speculate from '../images/speculate-icon.png'
+// import museume from '../images/museume-icon.png'
+// import outfitlab from '../images/outfit-lab-icon.png'
 
 
 const projects = [
   {
-    title: 'AirColor',
-    site: 'https://air-color.netlify.com/',
-    demo: 'https://vimeo.com/319501272',
-    icon: '👟',
-    source: 'https://github.com/Connor-Callahan/air-color',
-    description: 'Vanilla Javascript application to save and edit an SVG illustration.',
+    title: 'Playlistify',
+    site: 'https://github.com/vivsnguyen/playlistify',
+    demo: 'https://www.youtube.com/watch?v=M4T_zUoLulw&list=PLyKSWv0CKUFzpNorwX91_WFnTS5jDwAjY&index=31&t=0s',
+    icon: '🎧',
+    source: 'https://github.com/vivsnguyen/playlistify',
+    description: 'Full-stack web app that creates Spotify playlists from Setlist.FM data. Built with Python and Javascript.',
   },
   {
-    title: 'Speculate',
+    title: 'Happy Happy Hour',
     site: 'https://speculate.netlify.com/',
     demo: 'https://vimeo.com/325429394',
     icon: '💵',
@@ -29,16 +29,7 @@ const projects = [
     source: 'https://github.com/Connor-Callahan/outfit-lab',
     description: 'A collaborative clothing design application.',
   },
-  {
-    title: 'Museume',
-    site: '',
-    demo: 'https://vimeo.com/319499708',
-    icon:'🗽',
-    source: 'https://github.com/Connor-Callahan/museume',
-    description: 'A searchable index museums in New York City. Browse by borough or museum name.',
-  },
 ]
 
 export default projects
 
-// test to netlify

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from "gatsby"
 import TransitionLink from "gatsby-plugin-transition-link"
 import PropTypes from "prop-types"
-import icon from '../images/icon.png'
+// import icon from '../images/icon.png'
 
 
 class Navigation extends Component {
@@ -16,7 +16,7 @@ class Navigation extends Component {
         <div className="nav-container">
           <div className="icon">
           <Link to="/">
-             <span className="text">Connor Callahan</span>
+             <span className="text">Vivi Nguyen</span>
             </Link>
           </div>
           <div className="nav-links">
@@ -32,7 +32,7 @@ class Navigation extends Component {
               </a>
               <a target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/Connor-Callahan">
+                href="https://github.com/vivsnguyen">
                 GitHub
               </a>
             </div>
