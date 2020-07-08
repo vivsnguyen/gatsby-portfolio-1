@@ -23,4 +23,3 @@ const ContactPage = () => (
 
 export default ContactPage
 
-// <img className="me-icon" alt="astronaut" src={require('../images/me-icon.png')} />

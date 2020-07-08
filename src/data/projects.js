@@ -15,19 +15,11 @@ const projects = [
   },
   {
     title: 'Happy Happy Hour',
-    site: 'https://speculate.netlify.com/',
-    demo: 'https://vimeo.com/325429394',
-    icon: '💵',
-    source: 'https://github.com/Connor-Callahan/speculate',
-    description: 'Stock exchange simulation built with React and Redux.',
-  },
-  {
-    title: 'OutfitLab',
-    site: '',
-    demo: 'https://vimeo.com/321628455',
-    icon: '👕',
-    source: 'https://github.com/Connor-Callahan/outfit-lab',
-    description: 'A collaborative clothing design application.',
+    site: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
+    demo: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
+    icon: '♻️',
+    source: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
+    description: 'Full-stack web app for restaurants to post "happy hours" for food about to go bad. Uses TomTom API for mapping.',
   },
 ]
 

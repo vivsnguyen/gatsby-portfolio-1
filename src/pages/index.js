@@ -2,7 +2,6 @@ import React from "react"
 import projects from "../data/projects"
 import config from "../data/config"
 import ProjectListing from "../components/ProjectListing"
-// import Blog from "../components/Blog"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -20,4 +19,4 @@ const IndexPage = () => (
 )
 
 export default IndexPage
-// <Blog />
+

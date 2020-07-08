@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: 'Vivi Nguyen',
   siteTitleAlt: 'Vivi Nguyen',
   siteLogo: '/images/icon-mac.png',
-  siteUrl: 'https://www.connorwcallahan.com.com',
+  siteUrl: 'https://vivinguyen.dev/',
   repo: 'https://github.com/vivsnguyen',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
@@ -22,8 +22,10 @@ const config = {
   backgroundColor: '#ffffff',
   navLinks: [
     {
-      name: 'Contact',
-      link: '/contact/',
+      contactTitle: 'Contact',
+      contactLink: '/contact/',
+      aboutTitle: 'About',
+      aboutLink: '/about/'
     },
   ],
 }

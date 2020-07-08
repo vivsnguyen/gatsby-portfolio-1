@@ -21,15 +21,15 @@ class Navigation extends Component {
           </div>
           <div className="nav-links">
               {navLinks.map(link => (
-                <TransitionLink key={link.name} to={link.link} className="link" activeClassName="active">
-                  {link.name}
+                <React.Fragment>
+                <TransitionLink key={link.contactTitle} to={link.contactLink} className="link" activeClassName="active">
+                  {link.contactTitle}
                 </TransitionLink>
+                <TransitionLink key={link.aboutTitle} to={link.aboutLink} className="link" activeClassName="active">
+                  {link.aboutTitle}
+                </TransitionLink>
+                </React.Fragment>
               ))}
-              <a target="_blank"
-                rel="noopener noreferrer"
-                href="https://medium.com/@connorwcallahan">
-                Blog
-              </a>
               <a target="_blank"
                 rel="noopener noreferrer"
                 href="https://github.com/vivsnguyen">
