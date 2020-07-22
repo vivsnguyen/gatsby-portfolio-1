@@ -21,6 +21,14 @@ const projects = [
     source: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
     description: 'Full-stack web app for restaurants to post "happy hours" for food about to go bad. Uses TomTom API for mapping.',
   },
+  {
+    title: 'Sales Tax Calculator',
+    site: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
+    demo: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
+    icon: '💸',
+    source: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
+    description: 'iOS app to calculate sales tax.',
+  },
 ]
 
 export default projects
