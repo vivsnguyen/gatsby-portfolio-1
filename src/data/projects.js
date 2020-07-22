@@ -29,6 +29,14 @@ const projects = [
     source: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
     description: 'iOS app to calculate sales tax.',
   },
+  {
+    title: 'Tic-tac-toe',
+    site: 'https://github.com/vivsnguyen/tic-tac-toe',
+    demo: 'https://github.com/vivsnguyen/tic-tac-toe',
+    icon: '🥕',
+    source: 'https://github.com/vivsnguyen/tic-tac-toe',
+    description: 'Tic-tac-toe game built with React.',
+  },
 ]
 
 export default projects
