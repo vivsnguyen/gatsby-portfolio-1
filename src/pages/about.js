@@ -10,8 +10,8 @@ const AboutPage = () => (
     <div className="about" >
         <h1>About</h1>
           <div className="info">
-          <img src="../images/self_pic.png" width="50" height="50">
             <ul>
+            <p><img src="../images/self_pic.png" width="100" height="100"></img></p>
             <p>Hello! My name is Vivi. I graduated in 2019 with a Bachelor's in Cognitive Science from UC Berkeley. Throughout my college career, I've dabbled in teaching a lot of different subjects (reading, math, science, music, and computer science!).</p>
 
             <p>I've taken courses in computer science in undergrad and worked on Python based research projects in psychology and in education. I also taught computer science for The Coder School, which has a very open-ended learning curriculum. Teaching computer science is where I learned to debug and have fun with coding.</p>
