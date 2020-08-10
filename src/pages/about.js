@@ -10,6 +10,7 @@ const AboutPage = () => (
     <div className="about" >
         <h1>About</h1>
           <div className="info">
+          <img src="../images/self_pic.png" width="50" height="50">
             <ul>
             <p>Hello! My name is Vivi. I graduated in 2019 with a Bachelor's in Cognitive Science from UC Berkeley. Throughout my college career, I've dabbled in teaching a lot of different subjects (reading, math, science, music, and computer science!).</p>
 
