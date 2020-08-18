@@ -19,8 +19,7 @@ class ProjectListing extends Component {
               </h2>
               <p>{project.description}</p>
               <div className="buttons">
-              {/* add back in after deployment */}
-                {/* {project.site ? (
+                {project.site ? (
                   <a className="button" href={project.site} target="_blank" rel="noopener noreferrer">
                     site
                   </a>
@@ -28,7 +27,7 @@ class ProjectListing extends Component {
                 <a className="button" href={project.demo} target="_blank" rel="noopener noreferrer">
                   demo
                 </a>
-                } */}
+                }
                 
                 <a className="button"  target="_blank" rel="noopener noreferrer" href={project.source}>
                   code

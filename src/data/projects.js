@@ -7,7 +7,7 @@
 const projects = [
   {
     title: 'Playlistify',
-    site: 'https://github.com/vivsnguyen/playlistify',
+    // site: 'https://github.com/vivsnguyen/playlistify',
     demo: 'https://www.youtube.com/watch?v=M4T_zUoLulw&list=PLyKSWv0CKUFzpNorwX91_WFnTS5jDwAjY&index=31&t=0s',
     icon: '🎧',
     source: 'https://github.com/vivsnguyen/playlistify',
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: 'Happy Happy Hour',
-    site: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
+    site: 'https://happyhappy-hour.herokuapp.com/',
     demo: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
     icon: '♻️',
     source: 'https://github.com/vivsnguyen/Happy-Happy-Hour',
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: 'Sales Tax Calculator',
-    site: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
+    // site: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
     demo: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
     icon: '💸',
     source: 'https://github.com/vivsnguyen/sales-tax-iOS-app',
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: 'Tic-tac-toe',
-    site: 'https://github.com/vivsnguyen/tic-tac-toe',
+    // site: 'https://github.com/vivsnguyen/tic-tac-toe',
     demo: 'https://github.com/vivsnguyen/tic-tac-toe',
     icon: '🥕',
     source: 'https://github.com/vivsnguyen/tic-tac-toe',
