@@ -35,6 +35,11 @@ class Navigation extends Component {
                 href="https://github.com/vivsnguyen">
                 GitHub
               </a>
+              <a target="_blank"
+                rel="noopener noreferrer"
+                href="https://gist.github.com/vivsnguyen/4302a00ae4935fd0077dfda26bd0067c">
+                Resume
+              </a>
             </div>
           </div>
       </nav>
