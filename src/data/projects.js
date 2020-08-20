@@ -7,7 +7,7 @@
 const projects = [
   {
     title: 'Playlistify',
-    // site: 'https://github.com/vivsnguyen/playlistify',
+    site: 'https://playlist-ify.herokuapp.com/',
     // demo: 'https://www.youtube.com/watch?v=M4T_zUoLulw&list=PLyKSWv0CKUFzpNorwX91_WFnTS5jDwAjY&index=31&t=0s',
     demo: 'https://github.com/vivsnguyen/playlistify',
     icon: '🎧',
@@ -24,7 +24,7 @@ const projects = [
   },
   {
     title: 'FreshMaps',
-    // site: 'https://github.com/vivsnguyen/fresh',
+    site: 'http://freshmaps.herokuapp.com/',
     demo: 'https://github.com/vivsnguyen/fresh',
     icon: '🥑',
     source: 'https://github.com/vivsnguyen/fresh',
